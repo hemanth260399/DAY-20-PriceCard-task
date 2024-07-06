@@ -1,0 +1,9 @@
+.card-name{
+  background-color: aliceblue;
+  display: inline-block;
+  border-radius: 15px;
+  margin: 10px;
+}
+.textinto{
+  filter: opacity(30%);
+}
